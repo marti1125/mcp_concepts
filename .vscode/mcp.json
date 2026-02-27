@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "mcp-verificar-password": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@soycarlossolis/mcp-verificar-password",
+            ]
+        }
+    }
+}
