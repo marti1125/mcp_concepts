@@ -1,0 +1,13 @@
+{
+    "tips-para-nombrar-passwords": [
+        "REGLA DE ORO: Verifica con Porroa de IT ( mail: seguridad@miempresa_ejemplo.cl ) que tu contraseña cumple las políticas de la empresa",
+        "Usa contraseñas largas: mínimo 12–16 caracteres",
+        "Prefiere longitud y entropía sobre reglas complejas",
+        "Utiliza One password de la empresa para gestionar y generar contraseñas únicas y fuertes",
+        "Cambia tu contraseña cada mes",
+        "Activa la autenticación de dos factores (2FA) ",
+        "Evita información personal (nombres, fechas de nacimiento, DNI) y palabras del diccionario.",
+        "No uses patrones de teclado ni secuencias obvias (ej. 123456, qwerty, asdfg).",
+        "No utilices el nombre de la empresa ni la palabra 'galletas' en tus contraseñas."
+    ]
+}

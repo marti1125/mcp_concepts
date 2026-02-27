@@ -6,6 +6,13 @@
                 "-y",
                 "@soycarlossolis/mcp-verificar-password",
             ]
+        },
+        "mcp-verificar-password-local": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "C:\\Users\\Willy\\Documents\\mcp_concepts\\src\\server.js",
+            ]
         }
     }
 }

@@ -1,0 +1,20 @@
+{ 
+  "name": "mcp-verificar-password",
+  "version": "1.0.0",
+  "main": "/src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "inspect": "set DANGEROUSLY_OMIT_AUTH=true && npx @modelcontextprotocol/inspector npm run start"
+  },
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/inspector": "^0.21.0"
+  },
+  "bin": {
+    "npx-server": "./src/server.js"
+  }
+}
